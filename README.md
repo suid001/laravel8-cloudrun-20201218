@@ -1,2 +1,2 @@
-# laravel8-cloudrun-20201218
+# laravel8-cloudrun
 Laravel 8 on Google Cloud Run
